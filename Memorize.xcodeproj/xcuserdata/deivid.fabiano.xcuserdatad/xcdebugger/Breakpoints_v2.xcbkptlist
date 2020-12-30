@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AFF0FE44-9C90-4D20-B80E-765D97EBEE1E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33089A9C-5062-4E94-AD46-FC1AB90713C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Memorize/GridLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(itemCount:nearAspectRatio:in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33089A9C-5062-4E94-AD46-FC1AB90713C0 - 71e4b0d33695f601"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of Memorize.GridLayout.init(itemCount: Swift.Int, nearAspectRatio: Swift.Double, in: __C.CGSize) -&gt; Memorize.GridLayout"
+                  moduleName = "Memorize"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deivid.fabiano/Development/Swift/repositories/Memorize/Memorize/GridLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "33089A9C-5062-4E94-AD46-FC1AB90713C0 - ee0f6ec87e9a2c7a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memorize.GridLayout.init(itemCount: Swift.Int, nearAspectRatio: Swift.Double, in: __C.CGSize) -&gt; Memorize.GridLayout"
+                  moduleName = "Memorize"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/deivid.fabiano/Development/Swift/repositories/Memorize/Memorize/GridLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "374C3518-D67E-46D3-986C-778F08FD38AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Memorize/GridLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "GridLayout"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49B3B702-70D7-484C-B105-2758EDB1BE6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Memorize/GridLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "GridLayout"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
